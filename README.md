@@ -106,8 +106,18 @@ Conditional Statements:
                     //Block of Value2
                     break;
                case value3:
-                    //Block of Value3
+                    //Block of value3
                     break;
                 default:
                     //Block of Default
           }
+
+
+
+📌📎NaN--->Not a Number
+
+
+DOM-->Document Object Model
+   -->Interaction between web browser and javascript code through HTML using DOM 
+
+
