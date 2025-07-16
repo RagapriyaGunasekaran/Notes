@@ -63,3 +63,51 @@ Categories of Data type:
          *object:key-Value pair,e.g{name:"John"}
          *Array: Indexed Collection.e.g,[1,2,3]
          *Function: callable object,e.g,function(){....}
+
+
+Type Conversion:
+-->process of data from one type to another
+-->This can be Explicit (Manually done by the programmer) or implicit(automatically handled by JavaScript ,called type coercion)
+
+types:
+1.String Conversion
+-->Converts values to a string using String() or concatenation
+
+2.Number Conversion
+-->Converts values to numbers using Number(),parseInt(),parseFloat()
+
+3.Boolean conversion
+-->Number(),true or false
+
+Operators:
+--> + -Addition
+--> - -Subtraction
+--> * -Multiplication
+--> / -Division
+--> % -Modulus
+
+Conditional Statements:
+*if-else:
+     Syntax:
+         if(condition){
+            //Block of if
+         }
+         else{
+            //block of else
+          }
+
+*Switch:
+     Syntax:
+         switch(expression){
+               case value1:
+                   //Block of value1
+                   break;
+                case value2:
+                    //Block of Value2
+                    break;
+               case value3:
+                    //Block of Value3
+                    break;
+                default:
+                    //Block of Default
+          }
