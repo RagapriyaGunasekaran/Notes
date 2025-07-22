@@ -4,6 +4,7 @@ JavaScript:
 -->JavaScript is a versatile programming language primarily used to  create dynamic and interactive web Pages 
 -->It is executed in the browser ,making it essential for modern web devolpment
 -->It supports features like event handling ,DOM manipulation,and AJAX calls
+-->introduced in 1995
 
 Difference between Static and dynamic programmi language :
 -->Static -->e.g:Java
@@ -119,5 +120,6 @@ Conditional Statements:
 
 DOM-->Document Object Model
    -->Interaction between web browser and javascript code through HTML using DOM 
+   -->It is a programming interface
 
 
