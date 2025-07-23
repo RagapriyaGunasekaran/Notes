@@ -123,3 +123,19 @@ DOM-->Document Object Model
    -->It is a programming interface
 
 
+📆📌//Date:23-07-2025-Wednesday
+
+Built-in functions:
+
+   ♦Math.floor()
+     -->Rounds a number down to the nearest integer.
+     -->Removes the decimal part and returns the largest integer less than or equal to the number.
+
+   ♦Math.cell()
+     -->Rounds a number up to the nearest integer.
+     -->Returns the smallest integer greater than or equal to the number.
+     
+  ♦Math.round() in javascript
+    -->Rounds a number to the nearest integer
+    -->if the decimal part is >=0.5,it rounds up.
+
