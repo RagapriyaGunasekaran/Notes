@@ -139,3 +139,11 @@ Built-in functions:
     -->Rounds a number to the nearest integer
     -->if the decimal part is >=0.5,it rounds up.
 
+
+📆📌//Date:28-07-2025-Monday
+
+
+String Interpolation:
+   -->String data define in backtick(`)
+   -->Variable mention in ${} 
+
