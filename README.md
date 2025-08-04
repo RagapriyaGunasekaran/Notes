@@ -147,3 +147,15 @@ String Interpolation:
    -->String data define in backtick(`)
    -->Variable mention in ${} 
 
+
+📆📌//Date:04-08-2025-Monday
+
+
+Event Handling:
+  -->Event Bubbling
+
+        ♦ Event Bubbling occurs when an event triggers on an element and propagate up the DOM tree to its ancestors(parent)
+
+  -->Event Delegation
+
+        ♦ Attach a single listener to a parent element to handle events for its children 
