@@ -159,3 +159,10 @@ Event Handling:
   -->Event Delegation
 
         ♦ Attach a single listener to a parent element to handle events for its children 
+
+
+
+
+
+
+
